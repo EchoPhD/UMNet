@@ -1,4 +1,7 @@
 # UMNet
 UMNet: Uncertainty-guided Memory Network for Hyperspectral Pansharpening. 
 
-We will upload the code, datasets, evaluation metric test code (MATLAB), and our results from January to March 2026.
+HFRUNet.py is the model file. train and trainpre are the two-stage training files. For other datasets and training environments, please refer to the DFCFN repository.
+
+Training results are stored in the results folder:
+https://pan.baidu.com/s/1hxRk-Duo7kWTJcsSgY0aNA  |  24ch
